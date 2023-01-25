@@ -1,7 +1,6 @@
 # Springboot-Project
 
-#Curl for creating employees in database
-
+## Curl for creating employees in database.
 
 curl --location --request POST 'localhost:8080/api/employees' \
 --header 'Content-Type: application/json' \
